@@ -6,7 +6,7 @@ export function Home() {
     <>
       <div>
         <div>
-          <ul className=" list-disc md:flex space-x-8  font-bold mr-20 float-right">
+          <ul className=" list-disc md:flex space-x-8  font-bold ml-20 float-left">
             <li className="  underline">
               <NavLink to="/about">About</NavLink>
             </li>
